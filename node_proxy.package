@@ -1,8 +1,0 @@
-<manifest>
-    <moc path="NodeDBusClient.hpp"/>
-
-    <include path="."/>
-    <include path="/usr/include/qt5"/>
-
-    <introspect path="node_introspect.xml"/>
-</manifest>
