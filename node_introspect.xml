@@ -2,8 +2,8 @@
 <node name="/com/altruistic/control/node">
     <interface name="com.altruistic.control.node">
         <method name="callOperation">
+            <arg type="u" name="aNodeId" direction="in" />
             <arg type="u" name="aOperationId" direction="in" />
-            <arg type="u" name="aArgument" direction="in" />
         </method>
     </interface>
 </node>

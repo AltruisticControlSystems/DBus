@@ -18,7 +18,7 @@
 // with this program. If not, see <http://www.gnu.org/licenses/>.
 //-----------------------------------------------------------------------------
 
-#include "com_altruistic_control_server.h"
+#include "com_altruistic_control_server_proxy.h"
 
 #include <QtDBus/QDBusConnection>
 #include <QString>
